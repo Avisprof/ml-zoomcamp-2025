@@ -6,4 +6,7 @@ fastapi
 uvicorn
 uv
 tqdm
+torch==2.8.0
+torchsummary
+torchvision
 
