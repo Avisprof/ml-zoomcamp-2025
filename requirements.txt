@@ -9,4 +9,7 @@ tqdm
 torch==2.8.0
 torchsummary
 torchvision
+pillow
+onnxruntime
+keras-image-helper
 
